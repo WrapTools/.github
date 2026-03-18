@@ -10,7 +10,7 @@ Lightweight **Python** libraries and building blocks. Linux & FOSS friendly.
 
 ## Featured repos
 - [WrapAI](https://github.com/WrapTools/WrapAI)
-- [WrapEmbed](https://github.com/WrapTools/WrapEmit)
+- [WrapEmbed](https://github.com/WrapTools/WrapEmbed)
 - [WrapEmit](https://github.com/WrapTools/WrapEmit)
 - [WrapDataclass](https://github.com/WrapTools/WrapDataclass)
 
